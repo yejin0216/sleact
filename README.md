@@ -2,7 +2,7 @@
 
 ## Description
 
-Slack Clone 사이트입니다.
+Slack Clone 사이트입니다. SWR 테스트를 위해 제작하고 있습니다.
 
 ## Prerequisite
 
@@ -14,7 +14,7 @@ Slack Clone 사이트입니다.
 - [Typescript](https://github.com/microsoft/TypeScript)
 - [SWR](https://github.com/vercel/swr)
 
-## Installation
+## Install
 
 ```bash
  $ npm i
